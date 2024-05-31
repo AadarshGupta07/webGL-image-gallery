@@ -1,0 +1,20 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overscroll-behavior: none;
+    overflow: hidden;
+}
+
+.webgl
+{
+    user-select: none;
+    position: fixed;
+    inset: 0;
+    outline: none;
+}
